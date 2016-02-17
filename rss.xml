@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[stovemason]]></title>
         <description><![CDATA[stovemason]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stovemason/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 16:59:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 17:00:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stovemason/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Masonry Heater Builders</p>]]></description>
-            <link>undefined1108878e-e9b7-44eb-9a10-ccc88d93cbe3/index.html</link>
+            <link>https://thegrid.ai/stovemason/1108878e-e9b7-44eb-9a10-ccc88d93cbe3/index.html</link>
             <guid isPermaLink="false">1108878e-e9b7-44eb-9a10-ccc88d93cbe3</guid>
-            <pubDate>Wed, 17 Feb 2016 16:59:10 GMT</pubDate>
+            <pubDate>Wed, 17 Feb 2016 17:00:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
