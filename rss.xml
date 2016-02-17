@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[stovemason]]></title>
+        <description><![CDATA[stovemason]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 16:59:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Masonry Heater Builders</p>]]></description>
+            <link>undefined1108878e-e9b7-44eb-9a10-ccc88d93cbe3/index.html</link>
+            <guid isPermaLink="false">1108878e-e9b7-44eb-9a10-ccc88d93cbe3</guid>
+            <pubDate>Wed, 17 Feb 2016 16:59:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
